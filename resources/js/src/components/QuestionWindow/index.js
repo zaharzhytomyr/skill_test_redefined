@@ -117,6 +117,7 @@ export const QuestionWindow = () => {
                     </div>
 
                 ) : (
+                    <>
                     <TabContext value={currentQuestion}>
                     <Box className={styles.formContainer} >
                     <AppBar position='static' color='default' className={styles.appBarContainer} >
@@ -165,28 +166,30 @@ export const QuestionWindow = () => {
                 }
                     </Box>
                     </TabContext>
+                    <div style={{
+                    display: 'flex',
+                    justifyContent: 'flex-end'
+                }}>
+                        <Button
+                            onClick={finishTest}
+                            style={{
+                                marginTop: 5,
+                                borderRadius: 5,
+                                backgroundColor: 'rgba(255, 99, 102, 1)',
+                                color: '#fff',
+                                marginRight: 40
+                            }}
+                            {...{
+                                color: "inherit"
+                            }}
+                        >
+                            Finish Test
+                        </Button>
+                    </div>
+                    </>
                 )}
 
-            <div style={{
-                display: 'flex',
-                justifyContent: 'flex-end'
-            }}>
-                <Button
-                    onClick={finishTest}
-                    style={{
-                        marginTop: 5,
-                        borderRadius: 5,
-                        backgroundColor: 'rgba(255, 99, 102, 1)',
-                        color: '#fff',
-                        marginRight: 40
-                    }}
-                    {...{
-                        color: "inherit"
-                    }}
-                >
-                    Finish Test
-                </Button>
-            </div>
+
         </div>
     </>
 
