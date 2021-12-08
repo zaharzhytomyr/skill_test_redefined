@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>AngularJs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AngularJs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="g48" transform="translate(16.000000, 15.000000)" fill-rule="nonzero">
+            <polygon id="polygon50" fill="#B3B3B3" points="3.26251497 32.8195593 19.959521 41.9110169 36.742515 32.6964068 39.8711377 6.99050847 19.9384431 0.207627119 0.132694611 7.11271186"></polygon>
+            <polygon id="polygon52" fill="#A6120D" points="19.8922156 39.7388814 34.9798802 31.4665424 37.8955689 8.47616949 19.8922156 2.394"></polygon>
+            <polygon id="polygon54" fill="#DD1B16" points="19.891976 39.7388814 19.891976 2.39328814 2.35520958 8.58579661 5.03712575 31.5764068"></polygon>
+            <path d="M24.8479042,22.2744746 L19.8922156,24.5702373 L14.668982,24.5702373 L12.2136527,30.6543051 L7.64670659,30.7380678 L19.8922156,3.75010169 L24.8479042,22.2744746 Z M24.3688623,21.1186441 L19.9250299,12.4032881 L16.28,20.968678 L19.891976,20.968678 L24.3688623,21.1186441 Z" id="path56" fill="#F2F2F2"></path>
+            <polygon id="polygon58" fill="#B3B3B3" points="24.0608383 20.975322 19.9013174 20.975322 19.891976 24.5647797 25.6435928 24.5702373 28.3317365 30.7390169 32.7015569 30.8192203 19.891976 3.75010169 19.9247904 12.4032881"></polygon>
+        </g>
+    </g>
+</svg>
